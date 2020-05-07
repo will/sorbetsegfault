@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pg (1.2.3)
+    sequel (5.32.0)
+    sorbet (0.5.5585)
+      sorbet-static (= 0.5.5585)
+    sorbet-static (0.5.5585-universal-darwin-14)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pg
+  sequel
+  sorbet
+
+BUNDLED WITH
+   2.1.2
